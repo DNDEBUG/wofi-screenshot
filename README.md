@@ -8,4 +8,4 @@ edit the ```outfile``` flag topoint to the place you want to save the images
 
 I'm using dunstfy for notification, you can change if you don't use it or use something else   
 
-You need ```grim``` and ```slurp```
+You need ```grim```,```slurp``` and ```sway```
