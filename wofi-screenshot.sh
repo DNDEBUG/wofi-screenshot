@@ -1,7 +1,7 @@
 #!/bin/sh
 
 name=$(date +%Ih-%Mm-%Ss-d%d-m%m-y%Y-$RANDOM)
-outfile=~/Imagens/screenshots/$name.png
+outfile="Insert_dir_here"
 program=`wofi -d -n -b -L 3 -- << EOF
 selection
 screen
